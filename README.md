@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on gaining new skills. 
+- 🌱 I’m currently learning JavaScript and improving my expertise in Java and SQL. 
+- 👯 I’m looking to collaborate on more major projects in the future. 
+- 🤔 I’m looking for help with finding a job where I can use my CS degree and also get to build on the skills I achieved through my education!!
+- 💬 Ask me about the SunSketcher! It is one of my favourite projects (and the biggest project so far) that I have ever worked on. 
+- 📫 How to reach me: You can email me at tamekaf007@gmail.com. 
+- ⚡ Fun fact: I'm from The Bahamas!
+
+
 <!--
 **MikaMika2003/MikaMika2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
